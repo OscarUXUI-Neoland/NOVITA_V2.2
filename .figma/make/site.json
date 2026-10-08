@@ -1,0 +1,10 @@
+{
+  "description": "Transforms detailed PDF content into an informative, visually engaging landing page that preserves all information with a fresh, user-friendly design.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
